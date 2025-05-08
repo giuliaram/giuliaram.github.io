@@ -7,7 +7,7 @@ first_name: Giulia
 middle_name: #R.
 last_name: Ramella
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is preferred.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at EPFL, interested in wearable robotics and AI.
 footer_text: >
