@@ -433,18 +433,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/giulia.ramella", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
+          window.open("https://scholar.google.com/citations?user=944lxFgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
