@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Ongoing and past projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-project-ewalk",
+          title: 'project eWalk',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
