@@ -415,7 +415,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-ewalk",
           title: 'project eWalk',
-          description: "with background image",
+          description: "hip exoskeleton to assist walking",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
