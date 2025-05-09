@@ -4,10 +4,8 @@ permalink: /teaching/
 title: teaching
 description: Main courses taught over the past years.
 nav: true
-nav_order: 6
+# nav_order: 6
 ---
-
-
 
 ===
 
