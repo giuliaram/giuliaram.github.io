@@ -411,11 +411,6 @@ ninja.data = [{
           description: "Hip exoskeleton to assist walking",
           section: "Projects",handler: () => {
               window.location.href = "/ewalk/";
-            },},{id: "projects-project-ewalk",
-          title: 'project eWalk',
-          description: "hip exoskeleton to assist walking",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_template/";
             },},{
         id: 'social-email',
         title: 'email',
