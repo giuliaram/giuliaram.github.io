@@ -43,21 +43,6 @@ Beyond healthy users, the device holds promise for increasing mobility and physi
 - **Frame**: Lightweight 3D printed and carbon fiber structure  
 - **Fit**: Adjustable for users of various heights and body types
 
-<!--
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3">
-    {% include figure.liquid path="assets/img/6.jpg" title="Modular mechanical structure" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3">
-    {% include figure.liquid path="assets/img/11.jpg" title="Hip joint assembly close-up" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-
-<div class="caption">
-  Key components of the exoskeleton frame and actuator integration.
-</div>
--->
-
 ---
 
 ## Open Projects
@@ -72,5 +57,3 @@ We are currently exploring and open to collaboration in the following areas:
 If you're interested in working with us on eWalk please reach out.
 
 ---
-
-{% bibliography --query @* %}
