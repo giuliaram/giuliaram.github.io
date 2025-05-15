@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Main courses taught over the past years.",
           section: "Navigation",
           handler: () => {
@@ -407,10 +407,15 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-ewalk",
+          title: 'Project eWalk',
+          description: "Hip exoskeleton to assist walking",
+          section: "Projects",handler: () => {
+              window.location.href = "/ewalk/";
+            },},{id: "projects-project-ewalk",
           title: 'project eWalk',
           description: "hip exoskeleton to assist walking",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/project_template/";
             },},{
         id: 'social-email',
         title: 'email',
