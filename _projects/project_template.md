@@ -6,6 +6,7 @@ img: assets/img/ewalk_draw.jpg
 importance: 1
 category: work
 related_publications: true
+nav: false
 ---
 
 Every project has a beautiful feature showcase page.
