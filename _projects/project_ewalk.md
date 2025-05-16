@@ -18,13 +18,13 @@ Beyond healthy users, the device holds promise for increasing mobility and physi
 
 <div class="row mt-4">
   <div class="col-sm">
-    {% include figure.liquid path="assets/img/ewalk_pref.jpg" title="Treadmill" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ewalk_pref.jpg" title="Treadmill" class="img-fluid rounded z-depth-1" style="height: 220px;%}
   </div>
   <div class="col-sm">
-    {% include figure.liquid path="assets/img/ewalk_stairs.jpg" title="Unstructured 1" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ewalk_stairs.jpg" title="Unstructured 1" class="img-fluid rounded z-depth-1" style="height: 220px; %}
   </div>
   <div class="col-sm">
-    {% include figure.liquid path="assets/img/ewalk_nobkg.jpg" title="Unstructured 2" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ewalk_nobkg.jpg" title="Unstructured 2" class="img-fluid rounded z-depth-1" style="height: 220px; %}
   </div>
 </div>
 
