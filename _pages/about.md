@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle:  PhD student at <a href='https://www.epfl.ch/en/'>EPFL</a>, interested in wearable robotics and AI. 
+subtitle: PhD student at <a href='https://www.epfl.ch/en/'>EPFL</a>, interested in wearable robotics and AI.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: # >  <p> giulia.ramella@epfl.ch</p>
-    
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -24,9 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 [IN PREPARATION]
-
 
 I am a PhD student at [EPFL](https://www.epfl.ch/) (École Polytechnique Fédérale de Lausanne) in Switzerland, working in the [REHAssist](https://www.epfl.ch/labs/biorob/rehassist/) group of [Dr. Mohamed Bouri](https://scholar.google.com/citations?user=NjhGHu0AAAAJ&hl=de&oi=ao), and in the [Biorob](https://www.epfl.ch/labs/biorob/) laboratory of [Prof. Auke Ijspeert](https://scholar.google.com/citations?user=ViYx9vMAAAAJ&hl=de&oi=ao). I work with exoskeleletons to partially assist walking, in particular with a hip wearable device developed in our group. My main research interests include biomechanics, machine learning, and gait analysis. My research is oriented towards the development and validation of individualized and adaptive control strategies for hip exoskeletons.
 
