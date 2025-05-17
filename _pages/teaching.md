@@ -14,6 +14,8 @@ nav: true
 **Role:** Head Teaching Assistant  
 **Years:** 2023, 2024, 2025  
 **Semester**: Spring
+
+**Description**:
 This course covers haptic devices, force feedback, and the design of mechanical human–machine interfaces.
 
 ---
@@ -23,4 +25,6 @@ This course covers haptic devices, force feedback, and the design of mechanical 
 **Role:** Teaching Assistant  
 **Years:** 2023, 2024  
 **Semester**: Fall
+
+**Description**:
 This course covers robot architectures, sensing, kinematics, dynamics, and control for robotic manipulators.

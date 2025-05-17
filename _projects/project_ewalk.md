@@ -54,6 +54,6 @@ We are currently exploring and open to collaboration in the following areas:
 - **Human-subject studies**: evaluating impact on fatigue, metabolic cost, and long-term usability
 - **Hardware iteration**: lighter, adjustable, and more ergonomic design
 
-If you're interested in working with us on eWalk please reach out.
+If you're interested in working with us on eWalk, please reach out.
 
 ---
