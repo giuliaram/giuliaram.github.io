@@ -398,19 +398,30 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-icra-2025-travel-grant-sponsored-by-ras-ieee",
-          title: 'ICRA 2025 travel grant - sponsored by RAS IEEE.',
+            },},{id: "news-awarded-the-icra-2025-ieee-ras-travel-grant",
+          title: 'Awarded the ICRA 2025 IEEE-RAS travel grant.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-best-student-paper-finalist-at-the-ieee-icorr-conference-2025-part-of-rehabweek-2025-https-rehabweek-org",
+          title: 'Best student paper finalist at the IEEE-ICORR conference 2025 , part of [RehabWeek...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-ewalk",
+          section: "News",},{id: "news-best-student-paper-finalist-for-the-wira-award-at-the-ieee-icra-conference-2025",
+          title: 'Best student paper finalist for the WiRA Award at the IEEE-ICRA conference 2025....',
+          description: "",
+          section: "News",},{id: "projects-project-ewalk",
           title: 'Project eWalk',
           description: "Hip exoskeleton to assist walking",
           section: "Projects",handler: () => {
               window.location.href = "/ewalk/";
+            },},{id: "projects-project-exosuit-collab-tba",
+          title: 'Project Exosuit - collab - TBA',
+          description: "TBA",
+          section: "Projects",handler: () => {
+              window.location.href = "/exosuit/";
+            },},{id: "projects-project-on-ml-tba",
+          title: 'Project on ML - TBA',
+          description: "TBA",
+          section: "Projects",handler: () => {
+              window.location.href = "/ig/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -430,7 +441,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/giulia.ramella", "_blank");
+          window.open("https://www.linkedin.com/in/giuliaramella", "_blank");
         },
       },{
         id: 'social-scholar',
