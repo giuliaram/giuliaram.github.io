@@ -5,7 +5,7 @@ description: Speaker at the EPFL workshop on Exoskeletons.
 permalink: /jexo/
 img: #assets/img/ewalk_draw.jpg
 importance: 2
-category: workshops
+category: workshops-events
 related_publications: true
 nav: true
 ---
