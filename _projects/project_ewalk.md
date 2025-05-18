@@ -5,7 +5,7 @@ description: Hip exoskeleton to assist walking
 permalink: /ewalk/
 img: assets/img/ewalk_draw.jpg
 importance: 1
-category: work
+category: ongoing
 related_publications: true
 nav: true
 ---
@@ -18,7 +18,7 @@ Beyond healthy users, the device holds promise for increasing mobility and physi
 
 <div class="row mt-4">
   <div class="col-sm">
-    {% include figure.liquid path="assets/img/pic1.jpg" title="Treadmill" class="img-fluid rounded z-depth-1" style="height: 220px;" %}
+    {% include figure.liquid path="assets/img/ewalk_pref.jpg" title="Treadmill" class="img-fluid rounded z-depth-1" style="height: 220px;" %}
   </div>
   <div class="col-sm">
     {% include figure.liquid path="assets/img/ewalk_stairs.jpg" title="Unstructured 1" class="img-fluid rounded z-depth-1" style="height: 220px;" %}

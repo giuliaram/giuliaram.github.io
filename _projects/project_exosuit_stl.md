@@ -5,7 +5,7 @@ description: TBA
 permalink: /exosuit/
 img: #assets/img/ewalk_draw.jpg
 importance: 2
-category: work
+category: ongoing
 related_publications: true
 nav: true
 ---

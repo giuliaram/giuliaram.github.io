@@ -5,7 +5,7 @@ description: TBA
 permalink: /ig/
 img: #assets/img/ewalk_draw.jpg
 importance: 3
-category: work
+category: ongoing
 related_publications: true
 nav: true
 ---
