@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Ongoing and past projects.",
+          description: "Past and ongoing projects, and workhops/events.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -407,7 +407,22 @@ ninja.data = [{
           section: "News",},{id: "news-best-student-paper-finalist-for-the-wira-award-at-the-ieee-icra-conference-2025",
           title: 'Best student paper finalist for the WiRA Award at the IEEE-ICRA conference 2025....',
           description: "",
-          section: "News",},{id: "projects-project-ewalk",
+          section: "News",},{id: "projects-swiss-robotics-day",
+          title: 'Swiss Robotics Day',
+          description: "Booth and demo at the SRD.",
+          section: "Projects",handler: () => {
+              window.location.href = "/srd/";
+            },},{id: "projects-internship-in-comau-srl",
+          title: 'Internship in COMAU Srl',
+          description: "Internship with upper-limb exoskeleton.",
+          section: "Projects",handler: () => {
+              window.location.href = "/comau/";
+            },},{id: "projects-exoskeleton-day-epfl",
+          title: 'Exoskeleton Day - EPFL',
+          description: "Speaker at the EPFL workshop on Exoskeletons.",
+          section: "Projects",handler: () => {
+              window.location.href = "/jexo/";
+            },},{id: "projects-project-ewalk",
           title: 'Project eWalk',
           description: "Hip exoskeleton to assist walking",
           section: "Projects",handler: () => {
