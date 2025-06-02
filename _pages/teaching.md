@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Main courses taught over the past years.
+title: teaching
+description: Main teaching assistant activities over the past years.
 nav: true
 # nav_order: 6
 ---

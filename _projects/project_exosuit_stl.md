@@ -4,7 +4,7 @@ title: Project Exosuit - collab - TBA
 description: TBA
 permalink: /exosuit/
 img: #assets/img/ewalk_draw.jpg
-importance: 2
+importance: 3
 category: ongoing
 related_publications: true
 nav: true

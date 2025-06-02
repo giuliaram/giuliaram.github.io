@@ -16,7 +16,7 @@ Demonstrator in a booth for the [SRD](https://swissroboticsday.ch/) - the Swiss 
 2023, 2024
 
 **Interview:**
-Interview on national television [SFR](https://www.srf.ch/play/tv/schweiz-aktuell/video/swiss-robotics-day-2023-in-zuerich?urn=urn:srf:video:bc271608-6eb8-4f20-a3d0-7ac413c67e89) in 2024.
+Interview on national television [SFR](https://www.srf.ch/play/tv/schweiz-aktuell/video/swiss-robotics-day-2023-in-zuerich?urn=urn:srf:video:bc271608-6eb8-4f20-a3d0-7ac413c67e89) in 2023.
 
 <div class="row mt-4">
   <div class="col-sm-6 text-center">
