@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Main courses taught over the past years.",
+          title: "teaching",
+          description: "Main teaching assistant activities over the past years.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
