@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-[IN PREPARATION]
-
 I am a PhD student at [EPFL](https://www.epfl.ch/) (École Polytechnique Fédérale de Lausanne) in Switzerland, working in the [REHAssist](https://www.epfl.ch/labs/biorob/rehassist/) group of [Dr. Mohamed Bouri](https://scholar.google.com/citations?user=NjhGHu0AAAAJ&hl=de&oi=ao), and in the [Biorob](https://www.epfl.ch/labs/biorob/) laboratory of [Prof. Auke Ijspeert](https://scholar.google.com/citations?user=ViYx9vMAAAAJ&hl=de&oi=ao). I work with exoskeleletons to partially assist walking, in particular with a hip wearable device developed in our group. My main research interests include biomechanics, machine learning, and gait analysis. My research is oriented towards the development and validation of individualized and adaptive control strategies for hip exoskeletons.
 
 I am honored to be part of the [MSCA doctoral network](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca), which offers additional training in sustainability and leadership.
